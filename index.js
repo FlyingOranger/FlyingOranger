@@ -8,6 +8,7 @@ var gui = require('./lib/gui_controller'),
 
 processListeners();
 
-//startupManager();
+startupManager();
 gui.create();
+setTimeout( () => gui.newMessage("Testing", "www.google.com"));
 crawlManager();
