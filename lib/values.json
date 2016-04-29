@@ -1,0 +1,53 @@
+{
+	"request_authorization_url": {
+		"base": "https://www.reddit.com/api/v1/authorize",
+		"queries": {
+			"response_type": "code",
+			"state": "zkncyqurha",
+			"redirect_uri": "http://127.0.0.1:5050/authorize_callback",
+			"duration": "permanent",
+			"client_id": "48Q_9ieHpRTDkA",
+			"scope": "privatemessages"
+		}
+	},
+	"auth_token": {
+		"url_options": {
+			"hostname": "www.reddit.com",
+			"path": "/api/v1/access_token",
+			"method": "POST",
+			"auth": "48Q_9ieHpRTDkA:"
+		},
+		"post_data": {
+			"beginning": "grant_type=authorization_code&code=",
+			"end": "&redirect_uri=http://127.0.0.1:5050/authorize_callback"
+		}
+	},
+	"query_url": {
+		"base_options": {
+			"headers": {
+				"user-agent": "RedditCanFly, a Node.js/Java application that gives you instant desktop notifications"
+			},
+			"method": "GET",
+			"path": "/r/aww/search.json?q=kitten&sort=new&restrict_sr=on&t=all",
+			"hostname": "www.reddit.com"
+		},
+		"hostname": {
+			"oauth": "oauth.reddit.com",
+			"regular": "www.reddit.com"
+		}
+	},
+	"refresh_token_url": {
+		"url_options": {
+			"hostname": "www.reddit.com",
+			"path": "/api/v1/access_token",
+			"method": "POST",
+			"auth": "48Q_9ieHpRTDkA:"
+		},
+		"post_data": {
+			"beginning": "grant_type=refresh_token&refresh_token="
+		}
+	},
+	"access_token": "7881415-bx8GFGKneU6evGBoIkXQ94Q2ruM",
+	"refresh_token": "7881415-ClxCgHrNAIL-M7p00SIWz38sJuw",
+	"token_time": 1461873338
+}

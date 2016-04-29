@@ -1,0 +1,20 @@
+{
+  "name": "RedditCanFly",
+  "version": "1.0.0",
+  "description": "Reddit Application that sends desktop notificiations flying across your screen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./start_scripts/windows_start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "script",
+    "app",
+      "notify",
+      "notifications",
+      "desktop"
+  ],
+  "author": "Joel Barna",
+  "license": "MIT"
+}
