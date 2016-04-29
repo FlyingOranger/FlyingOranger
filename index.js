@@ -2,12 +2,12 @@
 
 var gui = require('./lib/gui_controller'),
     crawlManager = require('./lib/crawl_manager.js'),
-    startupManager = require('./lib/startup_manager'),
+    //startupManager = require('./lib/startup_manager'),
     processListeners = require('./lib/process_listeners');
 
 
 processListeners();
 
-startupManager();
+//startupManager();
 gui.create();
 crawlManager();

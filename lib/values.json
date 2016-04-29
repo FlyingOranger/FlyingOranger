@@ -6,8 +6,8 @@
 			"state": "zkncyqurha",
 			"redirect_uri": "http://127.0.0.1:5050/authorize_callback",
 			"duration": "permanent",
-			"client_id": "48Q_9ieHpRTDkA",
-			"scope": "privatemessages"
+			"scope": "privatemessages",
+			"client_id": "48Q_9ieHpRTDkA"
 		}
 	},
 	"auth_token": {
@@ -47,7 +47,5 @@
 			"beginning": "grant_type=refresh_token&refresh_token="
 		}
 	},
-	"access_token": "7881415-bx8GFGKneU6evGBoIkXQ94Q2ruM",
-	"refresh_token": "7881415-ClxCgHrNAIL-M7p00SIWz38sJuw",
-	"token_time": 1461873338
+	"client_id": "48Q_9ieHpRTDkA"
 }
