@@ -7,7 +7,6 @@ var gui = require('./lib/gui_controller'),
 
 
 processListeners();
-startupManager();
 gui.create();
 crawlManager();
 
