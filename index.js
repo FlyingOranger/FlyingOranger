@@ -8,4 +8,3 @@ var gui = require('./lib/gui_controller'),
 processListeners();
 gui.create();
 crawlManager();
-
