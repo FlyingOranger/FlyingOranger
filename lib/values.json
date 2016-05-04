@@ -25,7 +25,7 @@
 	"query_url": {
 		"base_options": {
 			"headers": {
-				"user-agent": "RedditCanFly, a Node.js/Java application that gives you instant desktop notifications"
+				"user-agent": "Flying Oranger, a Node.js/Java application that gives you instant desktop notifications"
 			},
 			"method": "GET",
 			"path": "/r/aww/search.json?q=kitten&sort=new&restrict_sr=on&t=all",
