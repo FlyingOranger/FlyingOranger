@@ -7,4 +7,4 @@ var gui = require('./lib/gui_controller'),
 
 processListeners();
 gui.create();
-appManager();
+appManager.startAll();
