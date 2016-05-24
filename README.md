@@ -97,7 +97,7 @@ The helper object contains information and functions to speed up development
 #### `helper.first` 
 Boolean that refers to if this is the first time that this notification app has been called.
 
-#### `helper.settings[ "your setting name" ]
+#### `helper.settings[ "your setting name" ]`
 Returns the value of the settings, be sure the "your setting name" matches exactly
         
 #### `helper.set( dataName, dataToSave )`
