@@ -32,7 +32,13 @@ module.exports = {
   // default is false ( unchecked )
   settings: {
     "Week Instead of Day": false
-  }
+  },
+  
+  // unused in this example actually, 
+  // but these are the scopes for this app
+  // if we needed access to a user's account
+  // more info can be found at https://www.reddit.com/dev/api
+  scope: [ "privatemessages", "modconfig" ],
   
   // the rate at which we will check reddit, 30 seconds
   interval: 30,
