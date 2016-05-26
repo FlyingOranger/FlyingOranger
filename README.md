@@ -1,4 +1,7 @@
+
 # FlyingOranger
+![](https://avatars3.githubusercontent.com/u/19192544?v=3&s=200)
+
 An awesome desktop notification system for reddit. Fully customizable.
 
 # Downloads
