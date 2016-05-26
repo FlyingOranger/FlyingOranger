@@ -2,7 +2,7 @@
 # FlyingOranger
 ![](https://avatars3.githubusercontent.com/u/19192544?v=3&s=200)
 
-An awesome desktop notification system for reddit. Fully customizable.
+Flying Oranger is a desktop notification system that checks your reddit account for new messages and flies an orange envelope across your screen when important things happen. Fully customizable.
 
 [Demo Video](https://www.youtube.com/watch?v=dJA7WzcGM9I) 
 # Downloads
