@@ -4,6 +4,7 @@
 
 An awesome desktop notification system for reddit. Fully customizable.
 
+[Demo Video](https://www.youtube.com/watch?v=dJA7WzcGM9I) 
 # Downloads
 ### [Windows](https://github.com/FlyingOranger/Windows_Installer/releases/download/v1.0/FlyingOranger_Installer.EXE)
 ### [Mac](https://github.com/FlyingOranger/Mac_Installer) ( needs help! )
@@ -14,6 +15,8 @@ An awesome desktop notification system for reddit. Fully customizable.
 2. In the directory that pops up, create a new JavaScript file wit the name of your App
 
 ### Example
+[Video creating an example app](https://www.youtube.com/watch?v=bEGvrCrHmB0)
+
 The app file is constructed with the following properties
 ```javascript
 // this example wants to notify us when there is a new top daily post
