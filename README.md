@@ -1,6 +1,6 @@
 
 # FlyingOranger
-![](https://avatars3.githubusercontent.com/u/19192544?v=3&s=200)
+![](http://i.imgur.com/vwIxoSI.gif)
 
 Flying Oranger is a desktop notification system that checks your reddit account for new messages and flies an orange envelope across your screen when important things happen. Fully customizable.
 
