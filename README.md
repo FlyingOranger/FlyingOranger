@@ -7,7 +7,7 @@ Flying Oranger is a desktop notification system that checks your reddit account 
 [Demo Video](https://www.youtube.com/watch?v=dJA7WzcGM9I) 
 # Downloads
 ### [Windows](https://github.com/FlyingOranger/Windows_Installer/releases/download/v1.0/FlyingOranger_Installer.EXE)
-### [Mac](https://github.com/FlyingOranger/Mac_Installer) ( needs help! )
+### [Mac](https://github.com/FlyingOranger/Mac_Installer)
 
 # Create your own app!
 
